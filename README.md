@@ -19,7 +19,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,java,linux,git,github,  bash,  vscode,  postgres,  mysql" />
 </p>
-
+---
 
 ## 📊 GitHub Statistics
 
