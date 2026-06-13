@@ -39,14 +39,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mxthxrx&theme=tokyonight&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
