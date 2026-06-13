@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mxthxrx&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20Views-325-blue?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Mxthxrx?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Mxthxrx?affiliations=OWNER&style=for-the-badge" />
 </p>
