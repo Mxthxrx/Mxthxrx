@@ -9,8 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-325-blue?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Mxthxrx?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Mxthxrx?affiliations=OWNER&style=for-the-badge" />
-</p>
+  <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=github" /></p>
 
 ---
 
