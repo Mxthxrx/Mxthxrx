@@ -46,31 +46,16 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-
----
-
-## ⚡ Daily Workflow
-
-```java
-while(alive) {
-    Learn();
-    Build();
-    Automate();
-    Improve();
-    Repeat();
-}
-```
-
 ---
 
 ## 💡 DevOps Mindset
 
 > Automate what is repetitive.
->
+
 > Monitor what is critical.
->
+
 > Document what is important.
->
+
 > Improve what is possible.
 
 ---
