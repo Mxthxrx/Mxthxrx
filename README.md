@@ -29,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxthxrx&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+
 
 ## 🔥 GitHub Streak
 
@@ -37,7 +37,6 @@
 <img src="https://streak-stats.demolab.com?user=Mxthxrx&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 ## 🌍 Connect With Me
 
@@ -46,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
----
+
 
 ## 💡 DevOps Mindset
 
@@ -58,7 +57,6 @@
 
 > Improve what is possible.
 
----
 
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
